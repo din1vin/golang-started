@@ -1,5 +1,5 @@
 // go脚本传参
-package main
+package hello
 
 import (
 	"flag"

@@ -1,5 +1,5 @@
 // 如何给命令行脚本添加Usage
-package main
+package hello
 
 import (
 	"flag"

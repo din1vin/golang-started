@@ -1,5 +1,5 @@
 //go 语言第一课 打印一个hello world
-package main
+package hello
 
 import "fmt"
 
